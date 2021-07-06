@@ -17,9 +17,9 @@ Refactored code was able to crunch data in a little over half a second compared 
 ![2018 Analysis](https://github.com/demarcomf/stock-analysis/blob/main/VBA_Challenge_2018.PNG)
 
 ## General Summary
-• General advantages of refactoring code: on a simple level, should improve code run times and traceability if this were a corporate team or organization. 
-• General disadvantages of refactoring code:breaking code or not saving the original form. Utilizing detailed comments make for an easier time following the logic chains when refactoring and improving code. 
+- General advantages of refactoring code: on a simple level, should improve code run times and traceability if this were a corporate team or organization. 
+- General disadvantages of refactoring code:breaking code or not saving the original form. Utilizing detailed comments make for an easier time following the logic chains when refactoring and improving code. 
 
 ## VBA Refactoring Specific Summary
-• Advantages: This provided a fundamental layout of the data processing needed as we aimed to search for particular stocks and the values associated with them over 2017/2018.
-• Disadvantages: Even with adding all the arrays (tickerVolumes, tickerStartingPrices, tickerEndingPrices), I did not notice a significant run time improvement. It was a lot of effort for saving half a second. I probably could have refactored this better.
+- Advantages: This provided a fundamental layout of the data processing needed as we aimed to search for particular stocks and the values associated with them over 2017/2018.
+- Disadvantages: Even with adding all the arrays (tickerVolumes, tickerStartingPrices, tickerEndingPrices), I did not notice a significant run time improvement. It was a lot of effort for saving half a second. I probably could have refactored this better.
